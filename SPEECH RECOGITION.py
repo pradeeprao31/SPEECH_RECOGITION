@@ -1,43 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
 
 
 pip install SpeechRecognition
-
-
-# In[4]:
-
-
 pip install pyttsx3
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[3]:
-
-
 pip install --upgrade pip
-
-
-# In[2]:
-
-
 pip install PyAudio
-
-
-# In[1]:
 
 
 import speech_recognition as sr
@@ -50,16 +16,6 @@ try :
         print(commmand)
 except:
     pass
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 import speech_recognition as sr
 import pyttsx3
