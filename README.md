@@ -1,16 +1,15 @@
-# SPEECH_RECOGITION
-(run those in command prompt/cmt/terminal) For the robot to listen to our voice/speech pip install speechRecognition
+# Python Speech Recognition : Speech To Text
+* Speech is the most common means of communication and the majority of the population in the world relies on speech to communicate with one another. Speech recognition system basically translates spoken languages into text. There are various real-life examples of speech recognition systems. For example, Apple SIRI which recognize the speech and truncates into text.
+* Speech Recognition is an important feature in several applications used such as home automation, artificial intelligence, etc.
 
-#To speak out, or text to speech pip install pyttsx3
+# Libraries
+* To speak out, or text to speech pip install pyttsx3
+* For advance control on browser pip install pywhatkit
+* To get wikipedia data pip install wikipedia
+* To get funny jokes pip install pyjokes
 
+  # Objective
+  * Creating a simple Desktop Assistant to find Location, Time , and using it as a Web Search. S- peech to text translation : This is done with the help of Google Speech Recognition. This requires an active internet connection to work. However, there are certain offline Recognition systems such as PocketSphinx, but have a very rigorous installation process that requires several dependencies. Google Speech Recognition is one of the easiest to use.
+  * Text to Speech Recognition : There are several APIs available to convert text to speech in python. One of such APIs is the Google Text to Speech API commonly known as the gTTS API. gTTS is a very easy to use tool which converts the text entered, into audio which can be saved as a mp3 file.
 
-#For advance control on browser pip install pywhatkit
-
-
-#To get wikipedia data pip install wikipedia
-
-
-#To get funny jokes pip install pyjokes
-
-@Issues
-If you encounter any problems feel free to open a new issue. Before that check other closed issues and check if your issue matches with any older issues.
+    
