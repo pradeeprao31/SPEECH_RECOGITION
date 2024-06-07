@@ -11,5 +11,6 @@
   # Objective
   * Creating a simple Desktop Assistant to find Location, Time , and using it as a Web Search. S- peech to text translation : This is done with the help of Google Speech Recognition. This requires an active internet connection to work. However, there are certain offline Recognition systems such as PocketSphinx, but have a very rigorous installation process that requires several dependencies. Google Speech Recognition is one of the easiest to use.
   * Text to Speech Recognition : There are several APIs available to convert text to speech in python. One of such APIs is the Google Text to Speech API commonly known as the gTTS API. gTTS is a very easy to use tool which converts the text entered, into audio which can be saved as a mp3 file.
+![Screenshot 2024-06-07 165526](https://github.com/pradeeprao31/SPEECH_RECOGITION/assets/109858319/190d34ca-01cb-4c8a-b0fe-62f08563b124)
 
     
